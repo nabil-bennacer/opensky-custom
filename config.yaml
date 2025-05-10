@@ -1,0 +1,11 @@
+opensky:
+  username: ""
+  password: ""
+
+database:
+  driver: sqlite3
+
+server:
+  http:
+    host: "0.0.0.0"
+    port: 8080
